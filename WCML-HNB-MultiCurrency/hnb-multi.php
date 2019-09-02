@@ -2,18 +2,18 @@
 /*
 * @link              https://www.simplesolutions.hr
 * @since             1.0
-* @package           Hnb_Multi
+* @package           WCML-HNB-MultiCurrency
 *
 * @wordpress-plugin
-* Plugin Name:       WooCommerce Multilingual HNB Multi Currency
+* Plugin Name:       WooCommerce WPML Multilingual HNB Multi Currency
 * Plugin URI:        https://simplesolutions.hr/plugins/hnb/
-* Description:       HNB (Croatian National Bank) exchange rate for WooCommerce Multilingual Multi Currency shop's.
+* Description:       HNB (Croatian National Bank) exchange rate for WPML WooCommerce Multilingual Multi Currency shop's.
 * Version:           1.0
 * Author:            Mario Rendić
 * Author URI:        https://www.simplesolutions.hr
 * License:           GPL-3.0+
 * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
-* Text Domain:       hnb-multi
+* Text Domain:       WCML-HNB-MultiCurrency
 * Last Updated:      02.09.19.
 */
 
