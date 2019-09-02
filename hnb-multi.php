@@ -5,7 +5,7 @@
 * @package           WCML-HNB-MultiCurrency
 *
 * @wordpress-plugin
-* Plugin Name:       WooCommerce WPML Multilingual HNB Multi Currency
+* Plugin Name:       HNB Multi Currency for WPML
 * Plugin URI:        https://simplesolutions.hr/plugins/hnb/
 * Description:       HNB (Croatian National Bank) exchange rate for WPML WooCommerce Multilingual Multi Currency shop's.
 * Version:           1.0

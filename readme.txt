@@ -1,4 +1,4 @@
-=== WooCommerce WPML Multilingual HNB Multi Currency ===
+=== HNB Multi Currency for WPML ===
 Contributors: mariorendic
 Tags: woocommerce, multilingual, wpml, exchange rates, currency, hnb, tečaj, tečajna lista, api
 Donate link: https://simplesolutions.hr/plugins/hnb/
