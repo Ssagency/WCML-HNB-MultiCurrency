@@ -5,6 +5,8 @@ Donate link: https://simplesolutions.hr/plugins/hnb/
 Requires at least: 4.6
 Tested up to: 5.2
 Requires PHP: 5.3
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Stable tag: trunk
 
 Adds additional exchange rates for WooCommerce Multilingual - HNB (Croatian National Bank) (via https://www.hnb.hr/hnb-api).
