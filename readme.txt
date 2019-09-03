@@ -23,8 +23,8 @@ This plugin extends the functionality of [WooCommerce Multilingual](https://word
 
 * [HNB - Croatia National Bank](https://www.hnb.hr/core-functions/monetary-policy/exchange-rate-list/exchange-rate-list) - rates are obtained from free API and doesn't require API key.
 * Plugin connects to HNB API to get middle rates.
-* [API url] (https://www.hnb.hr/hnb-api)
-* [API response] (http://api.hnb.hr/tecajn/v2)
+* [API url](https://www.hnb.hr/hnb-api)
+* [API response](http://api.hnb.hr/tecajn/v2)
 
 
 = Why to use this plugin: =
@@ -92,14 +92,14 @@ In next versions of plugin we plan to include functionality to display currency 
 
 == Credits ==
 
-* Author: [Mario Rendić - Simple Solutions](https://www.simplesolutions.hr/)  =
+* Author: [Mario Rendić - Simple Solutions](https://www.simplesolutions.hr/)
 
-* Partners: [Maoio Agency](https://maoio.agency/)  =
+* Partners: [Maoio Agency](https://maoio.agency/)
 
 = Special thanks to:  =
 
-* [Borko Livic - Media-X](https://media-x.hr/)  =
-* [Karolína Vyskočilová](https://kybernaut.cz/)  =
+* [Borko Livic - Media-X](https://media-x.hr/)
+* [Karolína Vyskočilová](https://kybernaut.cz/)
 
 == Screenshots ==
 
