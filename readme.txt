@@ -92,14 +92,14 @@ In next versions of plugin we plan to include functionality to display currency 
 
 == Credits ==
 
-= Author: [Mario Rendić - Simple Solutions](https://www.simplesolutions.hr)  =
+* Author: [Mario Rendić - Simple Solutions](https://www.simplesolutions.hr/)  =
 
-= Partners: [Maoio Agency](https://maoio.agency)  =
+* Partners: [Maoio Agency](https://maoio.agency/)  =
 
 = Special thanks to:  =
 
-= [Borko Livic - Media-X](https://media-x.hr)  =
-= [Karolína Vyskočilová](https://kybernaut.cz)  =
+* [Borko Livic - Media-X](https://media-x.hr/)  =
+* [Karolína Vyskočilová](https://kybernaut.cz/)  =
 
 == Screenshots ==
 
