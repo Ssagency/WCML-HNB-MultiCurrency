@@ -74,6 +74,11 @@ Select the newly added service in `WooCommerce -> WooCommerce Multilingual -> Mu
 1. Save the settings (otherwise the rate will be changed by following step but you would need to refresh the page in order to see it).
 1. Now you could click on `update manually now` button to update the rates for the first time.
 
+= Important notice about automatic sync time =
+
+* By Croatian law we are required to get exchange rate every day at 0:00h
+* As of restrictions in WCML there is no option to set exact time in day. (Currently we are in touch with WPML support to make it happen in next versions)
+* To set it up make sure to set to "Daily" and save settings and "Update manually now" it at 0:00h as then it will sync it each day at that time.
 
 == Frequently Asked Questions ==
 

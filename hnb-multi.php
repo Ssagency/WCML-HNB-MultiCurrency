@@ -14,7 +14,7 @@
 * License:           GPL-3.0+
 * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
 * Text Domain:       WCML-HNB-MultiCurrency
-* Last Updated:      02.09.19.
+* Last Updated:      03.09.19.
 */
 
 
@@ -30,8 +30,8 @@ class HNB_Exchange_Rates
             return false;
         }
         global  $woocommerce_wpml ;
-        require_once( ABSPATH . '/wp-content/plugins/woocommerce-multilingual/classes/multi-currency/class-wcml-exchange-rates.php' );
-        require_once( ABSPATH . '/wp-content/plugins/woocommerce-multilingual/classes/multi-currency/exchange-rate-services/class-wcml-exchange-rate-service.php' );
+        require_once( plugin_dir_path(__DIR__) . 'woocommerce-multilingual/classes/multi-currency/class-wcml-exchange-rates.php' );
+        require_once( plugin_dir_path(__DIR__) . 'woocommerce-multilingual/classes/multi-currency/exchange-rate-services/class-wcml-exchange-rate-service.php' );
         require_once 'class-hnb-exchange.php';
         $woocommerce_wpml->multi_currency->exchange_rate_services->add_service( 'hnb', new WCML_Exchange_Rates_HNB() );
     }
@@ -56,8 +56,8 @@ function hnb_exchange_rates()
     static  $plugin ;
 
     if ( !isset( $plugin ) ) {
-        require_once( ABSPATH . '/wp-content/plugins/woocommerce-multilingual/classes/multi-currency/class-wcml-exchange-rates.php' );
-        require_once( ABSPATH . '/wp-content/plugins/woocommerce-multilingual/classes/multi-currency/exchange-rate-services/class-wcml-exchange-rate-service.php' );
+        require_once( plugin_dir_path(__DIR__) . 'woocommerce-multilingual/classes/multi-currency/class-wcml-exchange-rates.php' );
+        require_once( plugin_dir_path(__DIR__) . 'woocommerce-multilingual/classes/multi-currency/exchange-rate-services/class-wcml-exchange-rate-service.php' );
         require_once 'class-hnb-exchange.php';
         $plugin = new HNB_Exchange_Rates();
     }
